@@ -112,5 +112,5 @@ const String GET_FEEDBACK = '/developer/getFeedback';
 
 
 ##
-resources for report : https://docs.google.com/document/d/1aElxaWmm3P4CgDD5zbvk9qGfD3xiag4-bakvjaDZdMY/edit
+resources for report : docs.google.com/document/d/1YZrBm2OyBWMZ-8HgZxy6SNWLDdGKkGlwzp86wXs_k8c
 
