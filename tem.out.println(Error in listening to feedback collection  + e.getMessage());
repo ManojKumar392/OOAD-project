@@ -1,0 +1,52 @@
+[33mbf0a94d[m[33m ([m[1;36mHEAD -> [m[1;32mmanoj[m[33m, [m[1;31morigin/manoj[m[33m)[m Observer pattern
+[33m56cf21d[m Fix bug in _ProjectDetailsState where deactivateProject is not called when _isActive is false
+[33m6080e4d[m Add deactivate project endpoint and implementation
+[33m5f029d2[m Proxy pattern
+[33m381cd30[m Merge branch 'manoj' of https://github.com/nandishns/Project-Management into manoj
+[33m8de9e8a[m update
+[33mfd46f8c[m Merge branch 'main' into manoj
+[33m134693d[m Implement user authorization in deactivateProject method
+[33m3a0304c[m Deactivate project in ProjectController and implement deactivateProject method in ProjectManager
+[33mc6f2651[m Merge branch 'main' of https://github.com/nandishns/Project-Management into manoj
+[33maff5073[m Fix user role command implementation and update user service interface
+[33me5e8252[m Merge branch 'main' of https://github.com/nandishns/Project-Management
+[33m1f55bb8[m [NS] added delete project function
+[33m65495c5[m Command pattern integration on createUser
+[33m56bed19[m[33m ([m[1;32mmain[m[33m)[m Update README.md
+[33m537c5a0[m Update Firebase files and main.dart
+[33ma7200a7[m Update DeveloperRepository to return double for getWorkedHours method
+[33m398172b[m Update DeveloperRepository to include getWorkedHours method
+[33md787522[m Update reportWork method to use double for enteredHours in DeveloperController and Developer classes
+[33m316b68f[m Add DeveloperRepository class and update endpoints
+[33mf75c729[m Update endpoints and add new controller and model classes
+[33m0e4092f[m Add new controller and model classes for Developer and Feedback
+[33mec1e721[m Update user roles and endpoints, create project repository and service classes
+[33mcf995b1[m Merge branch 'main' of https://github.com/nandishns/Project-Management
+[33m7a62e04[m Update user roles and endpoints
+[33mdb9c664[m Create README.md
+[33mbece695[m Update Firebase project name in .firebaserc Delete unnecessary files in Frontend/ios and Frontend/android Update gradle.properties in Frontend/android Update .gitignore in Frontend/android Update adminHome.dart import statement Update auth.dart import statement Update main.dart import statement Delete unnecessary files in Frontend/ios Delete unnecessary files in Frontend/other Delete unnecessary files in Frontend/other/tracker-lambda
+[33m74cc15a[m Add new files and update existing files
+[33m30d24ff[m Refactor UserController constructor to use dependency injection
+[33m8442135[m Add ProjectController and ProjectService interfaces
+[33m3bcf9a5[m Add new files and update existing files
+[33m7a4eb61[m Update Readme.md
+[33m01fc1cf[m Create Readme.md
+[33m0417ed6[m Delete dbt.py
+[33m5a2d7c7[m Merge pull request #1 from nandishns/nandish/firebase
+[33ma7007d6[m[33m ([m[1;31morigin/nandish/firebase[m[33m)[m added firebase sdk
+[33m7bcb437[m deleted admin sdk
+[33m6603fc2[m deleted admin sdk
+[33ma69ac26[m added firebase admin to gitignore
+[33mb760b8f[m added firebase admin to gitignore
+[33m92f8e96[m removed private key
+[33meca8041[m fixed merge conflicts
+[33m2e33b55[m added firebase dependency
+[33mc4ecba0[m Update README.md
+[33me56c4a4[m init
+[33m977c715[m Delete Backend/src/test/java/com/example/demo directory
+[33m8649743[m Delete Backend/src/main/java/com/example/demo directory
+[33m2221559[m Add files via upload
+[33m1645b94[m Create Workflow.md
+[33m05eb581[m Add files via upload
+[33m2191203[m Create Workflow.md
+[33ma8988e5[m Initial commit

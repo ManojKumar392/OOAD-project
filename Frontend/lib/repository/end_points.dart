@@ -1,0 +1,15 @@
+const String CREATE_ACCOUNT = "/user/create";
+const String ADMIN_STATUS = "/user/getAdminStatus";
+const String BASE_URL = "http://localhost:8080";
+const String ACTIVE_STATUS = "/user/getActiveStatus";
+const String CREATE_PROJECT = "/project/create";
+const String GET_ALL_PROJECTS = "/project/getAll";
+const String ASSIGN_DEVELOPER = "/project/assignDeveloper";
+const String PROJECT_DETAILS = "/project/getByProjectId";
+const String UPDATE_PROJECT = "/project/update";
+const String REPORT_WORK = '/developer/reportWork';
+const String WORKED_HOURS = '/developer/getWorkedHours';
+const String CREATE_FEEDBACK = '/feedback/createFeedback';
+const String GET_FEEDBACK = '/feedback/getFeedback';
+const String DEACTIVATE_PROJECT = '/project/deactivate';
+const String GET_WORK = '/work/getReportedWork';
