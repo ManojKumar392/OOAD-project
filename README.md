@@ -111,6 +111,4 @@ const String GET_FEEDBACK = '/developer/getFeedback';
 ```
 
 
-##
-resources for report : docs.google.com/document/d/1YZrBm2OyBWMZ-8HgZxy6SNWLDdGKkGlwzp86wXs_k8c
 
